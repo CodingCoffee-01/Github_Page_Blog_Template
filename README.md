@@ -3,6 +3,6 @@
 This project is modified by CodingCoffee.
 
 Blog URL:
-https://github.com/CodingCoffee-01/Github_Page_Blog_Template.git
+https://codingcoffee-01.github.io/Github_Page_Blog_Template/
 
 more courses: www.codingcoffee.org
