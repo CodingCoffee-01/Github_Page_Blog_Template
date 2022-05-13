@@ -3,6 +3,6 @@
 This project is modified by CodingCoffee.
 
 Blog URL:
-https://chiyanglin-astar.github.io/gp_blog_demo/
+https://github.com/CodingCoffee-01/Github_Page_Blog_Template.git
 
 more courses: www.codingcoffee.org
