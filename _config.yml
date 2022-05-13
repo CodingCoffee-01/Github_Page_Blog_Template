@@ -21,8 +21,8 @@
 title: CodingCoffee Github Pages Blog Templates
 email: CodingCoffee.01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This project is a showcase of how to setup a portfolio website using GitHub Pages,
-  with the main accent put on the blogging part.
+  This project is modified by CodingCoffee for teaching purpose.
+  Original project ref is from https://github.com/SimonDosda/gp-blog.git
 baseurl: '/Github_Page_Blog_Template' # the subpath of your site, e.g. /blog
 url: 'https://codingcoffee-01.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
