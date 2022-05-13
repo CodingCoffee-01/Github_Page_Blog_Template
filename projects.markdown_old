@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Test
-permalink: /test/
+title: Projects
+permalink: /projects/
 ---
-測試
-# 測試
-## 測試
-
 
 {% for repo in site.github.public_repositories %}
 
