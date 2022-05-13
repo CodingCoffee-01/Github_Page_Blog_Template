@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects_tt
-permalink: /projects_1/
+title: Projects
+permalink: /projects/
 ---
 
 測試
