@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Write a Post"
+title: "測試文章"
 date: 2022-05-13
 categories: jekyll blogging
-feature_image: feature-image.jpg
+feature_image: sample-image.jpg
 ---
 
 測試部落格文章
