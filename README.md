@@ -1,5 +1,8 @@
 ## GitHub Pages Blog
 
-This project is a showcase of how to setup a portfolio website using GitHub Pages, with the main accent put on the blogging part.
+This project is modified by CodingCoffee.
 
-Its demo can be accessed at the following adress: [https://simondosda.github.io/gp-blog/](https://simondosda.github.io/gp-blog/)
+Blog URL:
+https://chiyanglin-astar.github.io/gp_blog_demo/
+
+more courses: www.codingcoffee.org
