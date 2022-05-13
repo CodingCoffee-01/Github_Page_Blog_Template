@@ -31,7 +31,7 @@ github_username: simondosda
 permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
 
-staticman_url: 
+staticman_url:
 
 # Build settings
 theme: minima
@@ -56,3 +56,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#   - temp
