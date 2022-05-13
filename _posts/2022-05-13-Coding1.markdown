@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "測試文章"
+title: "程式文章1"
 date: 2022-05-13
 categories: jekyll blogging
 feature_image: sample-image.jpg
@@ -19,10 +19,19 @@ Use level 2 (`##`) and if necessary level 3 (`###`) titles to structure your pos
 You can display a block of code like the following using triple backticks.
 You can also specify the language after the first triple backticks.
 
+Python Partial Code:
 ```python
 def hello(name):
     return f'hello {name}'
 ```
+
+```c++
+main(){
+  cout << endl << " this is c++ partial code ";
+}
+
+```
+
 
 ## 增加圖檔
 
